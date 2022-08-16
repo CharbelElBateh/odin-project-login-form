@@ -1,8 +1,6 @@
-# odin-project-login-form
+# Sign Up & Login Form
 
 A working Front-End side of a given template for a login page
-
-Project was given by [The Odin Project](www.theodinproject.com/)
 
 ## Features
 
@@ -14,3 +12,11 @@ Project was given by [The Odin Project](www.theodinproject.com/)
 ## Intended template 
 
 ![](https://github.com/CharbelElBateh/odin-project-login-form/blob/main/sign-up-form.png)
+
+❗ Pixels and font sizes might not be accurate
+
+## Credits
+
+Project was given by [The Odin Project](www.theodinproject.com/)
+
+Background image by Halie West on [Unsplash](https://unsplash.com/photos/25xggax4bSA)
